@@ -1,4 +1,4 @@
 # website
 
 
-[website](https://sanaz-git.github.io/website/browny-master/index.html)
+[website](https://sanaz-git.github.io/website/browny-master)
