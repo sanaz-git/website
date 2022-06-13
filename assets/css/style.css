@@ -391,6 +391,11 @@ section .container {
 .cv {
   background: rgba(255, 255, 255, 0.12);
   border: none;
+  padding: 10px;
+  margin-left: 40%;
+  text-align: center;
+  position: initial;
+  margin-top: 10px;
 }
 .cv:hover {
   background: white;
